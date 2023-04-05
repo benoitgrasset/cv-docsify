@@ -8,7 +8,7 @@
 
 ☎️ Téléphone: 06 75 57 87 23
 
-29 ans
+30 ans
 
 Titulaire du permis de conduire B
 
@@ -20,6 +20,9 @@ Spécialité Modélisation en mécanique (MOM)
 `2010` - **Baccalauréat scientifique Sciences de l’ingénieur**, Lycée Camille Claudel Pontault-Combault (77340)
 
 ## 📚 Expériences professionnelles et stages
+`Depuis Avril 2022` - **Alma**, Paris (75010) :
+- Développeur front-end au sein de la squad Merchant Performance / Online (ReactJS, typescript, Redux, React-Testing-Library, Github)
+
 `Juillet 2021 à Mars 2022` - **PayPlug**, Paris (75013) :
 - Développeur front-end au sein de la squad Scale & Growth (ReactJS, typescript, Redux, Jest, styled components, Gitlab CI/CD, react-hook-form)
 
@@ -62,4 +65,4 @@ Catia V5, SolidWorks
 ## 🏃 Centres d’intérêt
 Triathlon longue distance: licencié au Versailles Triathlon
 
-Course à pied : Adidas Runners Paris, marathon de Valence (2019 et 2021) Tennis : pratiqué depuis 2002, classement 15/5
+Course à pied : Adidas Runners Paris, marathon de Valence (2019 et 2021) et Paris (2022) Tennis : pratiqué depuis 2002, classement 15/5
